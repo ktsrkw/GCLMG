@@ -40,5 +40,5 @@
 ![image](http://github.com/ktsrkw/GarbageClassificationLittleMobileGame/raw/main/images-of-readme/游戏页3.png)
 上图为游戏进行的界面截图3
 
-![image](http://github.com/ktsrkw/GarbageClassificationLittleMobileGame/raw/main/images-of-readme/游戏页3.png)
+![image](http://github.com/ktsrkw/GarbageClassificationLittleMobileGame/raw/main/images-of-readme/游戏结束弹窗.png)
 上图为游戏结束弹窗.png
