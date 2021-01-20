@@ -1,0 +1,2 @@
+# GarbageClassificationLittleMobileGame
+一个在2020年使用uniapp开发的垃圾分类小游戏，上海市大学生计算机应用能力大赛参赛作品
