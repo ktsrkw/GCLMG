@@ -1,0 +1,37 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "垃圾分类小游戏",
+				"navigationBarBackgroundColor": "#1AAD19"
+			}
+		},
+		{
+			"path":"pages/game/game",
+			"style":{
+				"navigationBarTitleText":"游戏进行中",
+				"navigationBarBackgroundColor":"#ff2958"
+			}
+		},
+		{
+			"path": "pages/gameInfo/gameInfo",
+			"style": {
+				"navigationBarTitleText": "游戏详情",
+				"navigationBarBackgroundColor": "#2C2B29"
+			}
+		},
+		{
+			"path": "pages/gameRule/gameRule",
+			"style": {
+				"navigationBarTitleText": "游戏规则",
+				"navigationBarBackgroundColor": "#23467E"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"navigationBarTextStyle":"white"
+	}
+}
